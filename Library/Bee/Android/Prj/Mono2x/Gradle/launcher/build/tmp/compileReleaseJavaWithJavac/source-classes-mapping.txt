@@ -1,0 +1,2 @@
+com/vv/RPGProject/BuildConfig.java
+ com.vv.RPGProject.BuildConfig

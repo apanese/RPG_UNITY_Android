@@ -1,0 +1,13 @@
+Using template 'D:/ZJA/2019.3.14/2021.3.1f1c1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\UnityManifest.xml'
+
+android.permission.INTERNET was added because:
+	UnityEngine.WWW was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+	Development player
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::GetTouch was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+		UnityEngine.UI-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+		UnityEngine.UI-FeaturesChecked.txt

@@ -1,0 +1,57 @@
+1.任务系统
+2.功能面板系统
+3.角色的攻击动作、技能动作。敌人的移动动作、攻击动作。
+4.角色的UI面板，包括hp条槽、mp条槽、经验值条槽，角色头像，角色等级，鼠标显示。
+5.背包系统（打开关闭背包，拾取物品，使用药品）
+
+重要的是积累自己的经验，加油！
+只要你做出一款不错的游戏，那么，以后的生计就不用愁了。
+
+背包系统解决方案：
+1.把药品模型导入场景。
+2.把药品、装备、材料等数据以json形式保存
+3.右键点击药品时，检测该药品是否在背包里存在。如果该药品已经存在，那么药品的数量加一（判断该药品的数量是否比前一个药品数量多，如果是就排序前进一个格子，否则顺序不变），否则该药品实例化在背包里（为药品类最后一个）。
+4.右键点击背包里的药品，可以选择丢掉或者使用。
+
+//同一个atlas里通过spriteName设置图片
+UISprite sprite = gameObject.GetComponent<UISprite>();
+sprite.spriteName = "XXX";
+
+在gamemanager里面，item类
+
+列表<item>() items; //从数据库读取数据
+items. sort() //先按id从小到大排，后按数量从大到小排。
+int total_length = 20 //总共有20个背包位置
+public GameObject[20] grids; //20个图形
+public GameObject[20] label; //20个数字
+//根据items.length给特定的grid绑定图形。
+//grid和item的绑定：
+for(int i =0;i< item.length;i++)
+{
+	//("item.logo_name ")
+	//对应的grid绑定对应的sprite
+	//if(item[i].count >1)
+}
+
+
+//装备信息
+帽子 Headgear
+盔甲 Armor
+左手 LeftHand
+右手 RightHand
+脚 Shoe
+饰品 Accessory
+
+适用类型
+剑士 Swordman
+魔法师 Magician
+通用 Common
+
+//角色的技能施法
+//敌人的攻击、移动、死亡
+
+
+
+
+
+
