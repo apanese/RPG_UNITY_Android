@@ -7,139 +7,139 @@
 7
 8    <uses-sdk
 9        android:minSdkVersion="22"
-9-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+9-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 10        android:targetSdkVersion="30" />
-10-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 11
 12    <supports-screens
-12-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+12-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
 13        android:anyDensity="true"
-13-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+13-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
 14        android:largeScreens="true"
-14-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+14-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
 15        android:normalScreens="true"
-15-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+15-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
 16        android:smallScreens="true"
-16-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+16-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
 17        android:xlargeScreens="true" />
-17-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+17-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
 18
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:7:3-77
-19-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:7:20-74
+19-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:7:3-77
+19-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:7:20-74
 20    <uses-permission android:name="android.permission.INTERNET" />
-20-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:8:3-65
-20-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:8:20-62
+20-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:8:3-65
+20-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:8:20-62
 21
 22    <uses-feature android:glEsVersion="0x00020000" />
-22-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-54
-22-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-51
+22-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-54
+22-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-51
 23    <uses-feature
-23-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-18:36
+23-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-18:36
 24        android:name="android.hardware.touchscreen"
-24-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-52
+24-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-52
 25        android:required="false" />
-25-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-33
+25-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-33
 26    <uses-feature
-26-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-21:36
+26-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-21:36
 27        android:name="android.hardware.touchscreen.multitouch"
-27-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-63
+27-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-63
 28        android:required="false" />
-28-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-33
+28-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-33
 29    <uses-feature
-29-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-24:36
+29-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-24:36
 30        android:name="android.hardware.touchscreen.multitouch.distinct"
-30-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-72
+30-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-72
 31        android:required="false" />
-31-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-33
+31-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-33
 32
 33    <application
-33-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-6:17
+33-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-6:17
 34        android:debuggable="true"
 35        android:extractNativeLibs="true"
-35-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:18-50
+35-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:18-50
 36        android:icon="@mipmap/app_icon"
-36-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+36-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
 37        android:label="@string/app_name" >
-37-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+37-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
 38        <meta-data
-38-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:5:5-79
+38-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:5:5-79
 39            android:name="unity.builder"
-39-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:5:16-44
+39-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:5:16-44
 40            android:value="\12369624712010" />
-40-->D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:5:45-76
+40-->E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:5:45-76
 41
 42        <activity
-42-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-47:20
+42-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-47:20
 43            android:name="com.unity3d.player.UnityPlayerActivity"
-43-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-66
+43-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-66
 44            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-44-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-194
+44-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-194
 45            android:hardwareAccelerated="false"
-45-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-48
+45-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-48
 46            android:launchMode="singleTask"
-46-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-44
+46-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-44
 47            android:resizeableActivity="false"
-47-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-47
-48            android:screenOrientation="fullSensor"
-48-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-51
+47-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:13-47
+48            android:screenOrientation="reverseLandscape"
+48-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:13-57
 49            android:theme="@style/UnityThemeSelector" >
-49-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-54
+49-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-54
 50            <intent-filter>
-50-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-39:29
+50-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-39:29
 51                <action android:name="android.intent.action.MAIN" />
-51-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-69
-51-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:25-66
+51-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-69
+51-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:25-66
 52
 53                <category android:name="android.intent.category.LAUNCHER" />
-53-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:17-77
-53-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:27-74
+53-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:17-77
+53-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:27-74
 54            </intent-filter>
 55
 56            <meta-data
-56-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-43:40
+56-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-43:40
 57                android:name="unityplayer.UnityActivity"
-57-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-57
+57-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:17-57
 58                android:value="true" />
-58-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:17-37
+58-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:17-37
 59            <meta-data
-59-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-46:40
+59-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:13-46:40
 60                android:name="android.notch_support"
-60-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:17-53
+60-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:45:17-53
 61                android:value="true" />
-61-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-37
+61-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-37
 62        </activity>
 63
 64        <meta-data
-64-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:9-51:33
+64-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:9-51:33
 65            android:name="unity.splash-mode"
-65-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-45
+65-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-45
 66            android:value="0" />
-66-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-30
+66-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-30
 67        <meta-data
-67-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:9-54:36
+67-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:9-54:36
 68            android:name="unity.splash-enable"
-68-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-47
+68-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-47
 69            android:value="True" />
-69-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-33
+69-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-33
 70        <meta-data
-70-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-57:36
+70-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:9-57:36
 71            android:name="unity.launch-fullscreen"
-71-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-51
+71-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:13-51
 72            android:value="True" />
-72-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-33
+72-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-33
 73        <meta-data
-73-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-60:37
+73-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:9-60:37
 74            android:name="unity.allow-resizable-window"
-74-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-56
+74-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-56
 75            android:value="False" />
-75-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-34
+75-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-34
 76        <meta-data
-76-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:9-63:50
+76-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:9-63:50
 77            android:name="notch.config"
-77-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-40
+77-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:13-40
 78            android:value="portrait|landscape" />
-78-->[:unityLibrary] D:\ZJA\RPGProject_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-47
+78-->[:unityLibrary] E:\RPG_ZJA\RPG_UNITY_Android\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:13-47
 79    </application>
 80
 81</manifest>

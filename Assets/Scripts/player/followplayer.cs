@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TouchControlsKit;
 
 public class followplayer : MonoBehaviour
 {
@@ -37,14 +38,17 @@ public class followplayer : MonoBehaviour
         }
         if (isrotating)
         {
-            RotateView();
+            //RotateView();
         }
         else
         {
-            follow();
+            //follow();
         }
-        scrollview();
-        
+        Vector2 look = TCKInput.GetAxis("test");
+        //this.transform.RotateAround(player.transform.position, player.up,1* rotatespeed);
+        //follow();
+        //scrollview();
+
     }
 
     void follow()

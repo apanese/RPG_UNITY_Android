@@ -27,24 +27,23 @@ public class PlayerMove : MonoBehaviour
     void Update()
     {
         
-        if(attack.state == PlayerState.ControlWalk)
-        {
-            float distance = Vector3.Distance(dir.targetPosition, transform.position);
-            //Debug.Log("dir.targetPosition"+dir.targetPosition);
-            //Debug.Log("transform.position"+transform.position);
-            if (distance <= 0.5f)
-            {
-                isMoving = false;
-                State = ControlWalkState.Idle;
-            }
-            else
-            {
-                isMoving=true;
-                State = ControlWalkState.Moving;
-                controller.SimpleMove(transform.forward * speed);
-
-            }
-        }
+        //if(attack.state == PlayerState.ControlWalk)
+        //{
+        //    float distance = Vector3.Distance(dir.targetPosition, transform.position);
+        //    //Debug.Log("dir.targetPosition"+dir.targetPosition);
+        //    //Debug.Log("transform.position"+transform.position);
+        //    if (distance <= 0.5f)
+        //    {
+        //        isMoving = false;
+        //        State = ControlWalkState.Idle;
+        //    }
+        //    else
+        //    {
+        //        isMoving=true;
+        //        State = ControlWalkState.Moving;
+        //        controller.SimpleMove(transform.forward * speed);
+        //    }
+        //}
     }
 
     public void SimpleMove(Vector3 targetPos)
